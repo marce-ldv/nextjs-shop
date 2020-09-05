@@ -1,5 +1,5 @@
 import React, { FunctionComponent } from 'react'
-import Typography from 'components/Typography'
+import Typography from '@components/Typography'
 
 interface Props {
   id: string

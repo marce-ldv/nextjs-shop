@@ -1,5 +1,5 @@
 import React, { useState, useEffect, FunctionComponent } from 'react'
-import Product from 'components/Product'
+import Product from '@components/Product'
 
 const HomePage: FunctionComponent = () => {
   const [products, setProducts] = useState<TProduct[]>([])
